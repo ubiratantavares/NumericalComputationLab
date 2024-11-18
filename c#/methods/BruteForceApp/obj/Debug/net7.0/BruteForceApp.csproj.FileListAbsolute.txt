@@ -1,0 +1,15 @@
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/bin/Debug/net7.0/BruteForceApp
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/bin/Debug/net7.0/BruteForceApp.deps.json
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/bin/Debug/net7.0/BruteForceApp.runtimeconfig.json
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/bin/Debug/net7.0/BruteForceApp.dll
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/bin/Debug/net7.0/BruteForceApp.pdb
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.csproj.AssemblyReference.cache
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.AssemblyInfoInputs.cache
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.AssemblyInfo.cs
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.csproj.CoreCompileInputs.cache
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.dll
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/refint/BruteForceApp.dll
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.pdb
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/BruteForceApp.genruntimeconfig.cache
+/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/obj/Debug/net7.0/ref/BruteForceApp.dll

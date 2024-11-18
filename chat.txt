@@ -1,0 +1,5 @@
+O método da bisseção é abordado neste arquivo?
+
+Tomando como base o arquivo, escrever a seção "Definição" sobre o método da bisseção citando no texto produzido pelo autor José Eduardo Castilho (2001) do livro **Cálculo Numérico** ; quando for cabível.
+
+Apresente um resumo agrupando as ideias semelhantes dos diversos autores mencionados no texto, complementando com ideias diferentes dos diversos autores e discutindo as ideias divergentes dos diversos autores com base no texto do arquivo, sempre citando as fontes mencionadas no texto para a produção da sessão "Definição" para a confeccção do artigo científico sobre o tema "Resolução de Equação Não-Linear Transcendental: Método da Bisseção".

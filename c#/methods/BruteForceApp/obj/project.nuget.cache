@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjU44MRD4uNoyNjE3uBEn7H7s3rwKfjuuSyEDtsi88m54b+w6SsNLMPdiOYrcpHZtwWKxn+NQkWTpMzDXNfd6Q==",
+  "success": true,
+  "projectFilePath": "/home/bira/github/NumericalComputationLab/c#/methods/BruteForceApp/BruteForceApp.csproj",
+  "expectedPackageFiles": [
+    "/home/bira/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/bira/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/bira/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/home/bira/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
